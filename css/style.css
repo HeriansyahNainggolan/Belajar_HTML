@@ -1,0 +1,24 @@
+.box{
+    height: 80px;
+    width: 95%;
+    background-color: blue;
+    margin: 3px;
+}
+.box p,.box h4 {
+    color: aliceblue;
+    font-weight: bold;
+    font-size: 20px;
+}
+.seven{
+    border-radius: 20px;
+}
+#six {
+    background-color: blueviolet;
+    
+}
+
+.card {
+    background-color: red;
+    /* padding :5px 0 6px 9px; */
+    padding :10px 25px;
+}
